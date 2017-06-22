@@ -1,6 +1,6 @@
 # KotlinRepository
 Kotlin资料库@DC
-这是用于收集Kotlin语言资料以及项目的资料库，为了让DC移动开发小组更好更快地学习和应用Kotlin进行Android编程。
+这是用于收集Kotlin语言资料以及项目的资料库，为了让DC移动开发小组更好更快地学习和应用Kotlin进行Android编程。\n
 该库目前有如下资料：
     1.KotlinDemo:一个以Kotlin语言编写的小Demo，涉及到了一些基本用法以及DSL编写布局文件的知识
     2.WeatherApp:一个未开发完成的App，具体实现可参考kotlin_file文件中的Kotlin For AndroidDeveloper这本书进行开发完成
